@@ -1,0 +1,2 @@
+# Somente para --plots. Medicoes C e estatisticas CSV nao precisam de pacotes Python.
+matplotlib>=3.7
